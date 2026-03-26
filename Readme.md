@@ -42,6 +42,7 @@ cert-manager : "It request, stores and renew certificates"
 
 Lets encrypt : "It generates cert and keys"
 
+
 How ssl provides by lets encrypt on kubernetes?
 
 Step 1 : kubectl apply -f ingress.yaml
